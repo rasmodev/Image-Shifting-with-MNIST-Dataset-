@@ -1,11 +1,5 @@
-# Image-Shifting-with-MNIST-Dataset
-This GitHub repository provides Python code and functions for shifting images within the MNIST dataset. The repository demonstrates how to load the dataset, visualize sample digits,
-and perform image-shifting operations such as shifting up, down, right, and left. The code serves as a valuable resource for understanding and implementing image-shifting techniques
-for data augmentation in machine learning projects. By leveraging these functions, users can easily shift images to increase the amount of training data and potentially enhance the
-accuracy of their models.
-
-# Image Shifting Functions
-This repository contains a set of simple Python functions for shifting images in various directions. Shifting images can be useful for increasing the amount of data available for training and potentially improving the accuracy of machine learning models.
+# Image Shifting Functions with MNIST Dataset
+This GitHub repository provides Python code and functions for shifting images within the MNIST dataset. The repository demonstrates how to load the dataset, visualize sample digits, and perform image-shifting operations such as shifting up, down, right, and left. The code serves as a valuable resource for understanding and implementing image-shifting techniques for data augmentation in machine learning projects. By leveraging these functions, users can easily shift images to increase the amount of training data and potentially enhance the accuracy of their models.
 
 # Load Data
 To begin, we will load the MNIST dataset from the scikit-learn (sklearn) library and examine one of the images in the dataset. The goal of this group work is to understand how to shift an image, so we won't need to split the dataset. We can focus on a few digits in the dataset for this task.
